@@ -8,7 +8,6 @@ public class UserController {
 
 		return "user/login";
 	}
-<<<<<<< HEAD
 
 	@RequestMapping("/user/insert.do")
 	public String insert() {
@@ -17,6 +16,4 @@ public class UserController {
 		return "user/insert";
 	}
 }
-=======
-}
->>>>>>> 54294a565a6a8fcd73748c6c4142de01ee632eea
+
